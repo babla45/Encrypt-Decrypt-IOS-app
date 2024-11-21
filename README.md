@@ -14,10 +14,10 @@ Welcome to the **Encrypt/Decrypt iOS Application**, a simple and intuitive app f
 ---
 
 ### Screenshot 1
-![Screenshot 1](./screenshot1.jpg)
+![Screenshot 1](./screenshot1.png)
 
 ### Screenshot 2
-![Screenshot 2](./screenshot2.jpg)
+![Screenshot 2](./screenshot2.png)
 
 ---
 
